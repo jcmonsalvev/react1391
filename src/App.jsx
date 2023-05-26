@@ -21,7 +21,7 @@ function App() {
        <h3>Integrantes</h3>
        <h4>JUAN CAMILO MONSALVE VALENCIA</h4>
        <h6>Enlace del proyecto</h6>
-       <a href="index.html">Presiona aqui para ir al proyecto</a>
+       <a href="inicio.html">Presiona aqui para ir al proyecto</a>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
